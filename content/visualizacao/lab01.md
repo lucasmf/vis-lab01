@@ -9,6 +9,7 @@ Para a realização dessa atividades, dados a respeito do açude de boqueirão d
 fornecidos a partir do seguinte endereço:
 https://api.insa.gov.br/reservatorios/12172/monitoramento
 
+<br><br>
 * **Será que o volume do açude mudou com o passar do tempo?**
 
 Fazendo um plot do volume total do açude com o passar do tempo obtemos a seguinte visualização:
@@ -21,6 +22,7 @@ Isso provavelmente foi causado por uma medição não muito precisa do açude.
 
 Por esse motivo, as próximas visualizações vão trabalhar apenas com valores percentuais de volume.
 
+<br><br>
 * **Variação do volume açude com o passar do tempo.**
 
 Decidimos fazer uma visualização que conseguisse mostrar de maneira intuitiva o
@@ -35,6 +37,7 @@ de 1998 a 2003.
 
 Mas uma coisa que nos chamou a atenção foi que não temos dados a respeito do açude em Fevereiro de 1994. Isso nos fez procurar saber mais a respeito da frequência das medições.
 
+<br><br>
 * **A frequência das medições realizadas no açude**
 
 <div id="countano" width=300></div>
