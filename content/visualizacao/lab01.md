@@ -9,25 +9,19 @@ Para a realização dessa atividades, dados a respeito do açude de boqueirão d
 fornecidos a partir do seguinte endereço:
 https://api.insa.gov.br/reservatorios/12172/monitoramento
 
-Para analizar os dados decidimos fazer uma visualização que mostrasse a variação do volume
-do açude com o passar do tempo. Mas se observamos os dados fornecidos, temos a opção de
-usar o campo ```Volume``` ou ```VolumePercentual```. Isso nos fez questionar:
-
 * **Será que o volume do açude mudou com o passar do tempo?**
 
-Para descobrir a resposta dessa pergunta pegamos todas as entradas e dividimos ```Volume``` pelo ```VolumePercentual``` para obter o ```VolumeTotal```. Fazendo um plot do ```VolumeTotal``` com ```DataInformacao``` obtemos a seguinte visualização:
+Fazendo um plot do volume total do açude com o passar do tempo obtemos a seguinte visualização:
 
 <div id="volumetotal" width=300></div>
 
 <br>
 Como podemos perceber, o volume do açude teve uma mudança brusca por volta de 1994.
-Isso provavelmente foi causado por uma medição não muito precisa do açude. Escolhemos
-utilizar o valor percentual do volume, uma vez que esse provavelmente está correto
-independente do volume total.
+Isso provavelmente foi causado por uma medição não muito precisa do açude.
 
-Com o ```VolumePercentual``` escolhido, voltamos ao nosso pensamento inicial:
+Por esse motivo, as próximas visualizações vão trabalhar apenas com valores percentuais de volume.
 
-* **Mostrar a variação do volume açude com o passar do tempo.**
+* **Variação do volume açude com o passar do tempo.**
 
 Decidimos fazer uma visualização que conseguisse mostrar de maneira intuitiva o
 volume de acordo com o mês e ano.
@@ -36,7 +30,7 @@ volume de acordo com o mês e ano.
 
 <br>
 Conseguimos concluir a partir dessa visualização que desde por volta de 2014 estamos
-passando por uma seca severa. Também é possível ver que houve uma grande seca no período
+passando por uma seca severa, podemos ver que 2017 teve os piores níveis de água do açude. Também é possível ver que houve uma grande seca no período
 de 1998 a 2003.
 
 Mas uma coisa que nos chamou a atenção foi que não temos dados a respeito do açude em Fevereiro de 1994. Isso nos fez procurar saber mais a respeito da frequência das medições.
