@@ -1,0 +1,23 @@
+baseURL = "https://http://lucasmf.github.io/vis-lab01/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-goa"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "docs"
+
+## Site Settings
+[params]
+author = "Lucas de Matos"
+intro = "Estudante de Ciência da Computação"
+description = ""
+authorimage = "foto.jpg"
+dateformat = "Jan 2, 2006"
+
+## Main Menu
+[[menu.main]]
+    name = "Visualizações"
+    weight = 100
+    identifier = "visualizacao"
+    url = "/visualizacao/"

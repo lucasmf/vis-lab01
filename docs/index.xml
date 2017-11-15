@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://http://lucasmf.github.io/vis-lab01/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2017 16:28:08 -0300</lastBuildDate>
+    
+	<atom:link href="https://http://lucasmf.github.io/vis-lab01/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab 01</title>
+      <link>https://http://lucasmf.github.io/vis-lab01/visualizacao/lab01/</link>
+      <pubDate>Wed, 15 Nov 2017 16:28:08 -0300</pubDate>
+      
+      <guid>https://http://lucasmf.github.io/vis-lab01/visualizacao/lab01/</guid>
+      <description>Para a realização dessa atividades, dados a respeito do açude de boqueirão dos foram fornecidos a partir do seguinte endereço: https://api.insa.gov.br/reservatorios/12172/monitoramento
+Para analizar os dados decidimos fazer uma visualização que mostrasse a variação do volume do açude com o passar do tempo. Mas se observamos os dados fornecidos, temos a opção de usar o campo Volume ou VolumePercentual. Isso nos fez questionar:
+ Será que o volume do açude mudou com o passar do tempo?</description>
+    </item>
+    
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://http://lucasmf.github.io/vis-lab01/post/primeiro-post/</link>
+      <pubDate>Wed, 15 Nov 2017 15:04:15 -0300</pubDate>
+      
+      <guid>https://http://lucasmf.github.io/vis-lab01/post/primeiro-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
