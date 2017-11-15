@@ -7,6 +7,10 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "docs"
 
+## Social Accounts
+[params.social]
+github = "lucasmf"
+
 ## Site Settings
 [params]
 author = "Lucas de Matos"

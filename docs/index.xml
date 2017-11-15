@@ -18,8 +18,9 @@
       
       <guid>https://lucasmf.github.io/vis-lab01/visualizacao/lab01/</guid>
       <description>Para a realização dessa atividades, dados a respeito do açude de boqueirão dos foram fornecidos a partir do seguinte endereço: https://api.insa.gov.br/reservatorios/12172/monitoramento
-Para analizar os dados decidimos fazer uma visualização que mostrasse a variação do volume do açude com o passar do tempo. Mas se observamos os dados fornecidos, temos a opção de usar o campo Volume ou VolumePercentual. Isso nos fez questionar:
- Será que o volume do açude mudou com o passar do tempo?</description>
+ Será que o volume do açude mudou com o passar do tempo?  Fazendo um plot do volume total do açude com o passar do tempo obtemos a seguinte visualização:
+ 
+Como podemos perceber, o volume do açude teve uma mudança brusca por volta de 1994. Isso provavelmente foi causado por uma medição não muito precisa do açude.</description>
     </item>
     
     <item>
