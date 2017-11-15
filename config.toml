@@ -1,6 +1,6 @@
 baseURL = "https://lucasmf.github.io/vis-lab01/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Vis-Lucas"
 theme = "hugo-goa"
 
 contentdir = "content"
