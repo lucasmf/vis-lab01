@@ -6,10 +6,19 @@
     <description>Recent content on Vis-Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 22:29:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2017 22:30:25 -0300</lastBuildDate>
     
 	<atom:link href="https://lucasmf.github.io/vis-lab01/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lab02p5</title>
+      <link>https://lucasmf.github.io/vis-lab01/visualizacao/lab02p5/</link>
+      <pubDate>Thu, 21 Dec 2017 22:30:25 -0300</pubDate>
+      
+      <guid>https://lucasmf.github.io/vis-lab01/visualizacao/lab02p5/</guid>
+      <description>O objetivo dessa visualização é mostrar a quantidade de pessoas que passaram em um de três lugares que ficam ao redor do açude(bob&amp;rsquo;s, monumento Jackson do Pandeiro e o Museu dos burrinhos). O eixo horizontal representa o tempo, e a largura das faixas representa a quantidade de pessoas que passaram nesse período de tempo(Infelizmente quando fui passar minha vizualização para o HUGO os eixos não ficaram da maneira como eu queria, acabei retirando).</description>
+    </item>
     
     <item>
       <title>Lab02</title>
